@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Halo! Saya seorang Junior Backend Enthusiast & AI Learner💡logic bekerja di balik layar. Fokus utama saya saat <br>ini adalah membangun sistem backend yang solid<br>API cerdas dan model logika Python.<br><br>🌱 Fokus saat ini: Mengembangkan arsitektur backend<br>tingkat lanjut (seperti Multi-tenancy) dan mempelajari cara kerja AI agents dalam mengambil keputusan.<br>⚡ Fakta menarik: Saya sangat suka mengulik efisiensi sistem agar berjalan optimal di spesifikasi perangkat yang terbatas.
+# 💫 About Me Chilmi89:
+👋 Halo! Saya seorang Junior Backend Enthusiast & AI Learner💡logic bekerja di balik layar. Fokus utama saya saat <br>ini adalah membangun sistem backend yang solid<br>API cerdas dan model logika Python.<br><br>🌱 Fokus saat ini: Mengembangkan arsitektur backend<br>tingkat lanjut (seperti Multi-tenancy) dan mempelajari cara kerja AI agents dalam mengambil keputusan.<br>⚡
 
 
 # 💻 Tech Stack:
