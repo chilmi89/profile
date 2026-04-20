@@ -1,5 +1,5 @@
 # 💫 About Me Chilmi89:
-👋 Halo! Saya seorang Junior Backend Enthusiast & AI Learner💡logic bekerja di balik layar. Fokus utama saya saat <br>ini adalah membangun sistem backend yang solid<br>API cerdas dan model logika backend.<br><br>🌱 dan mempelajari cara kerja AI agents dalam mengambil keputusan.<br>⚡
+👋 Halo! Saya seorang Junior Backend Enthusiast & AI Learner💡logic bekerja di balik layar. Fokus utama saya saat <br>ini adalah membangun sistem backend yang solid<br>API cerdas dan model logika backend.<br><br>🌱 dan mempelajari cara kerja AI agents dalam mengambil keputusan.
 
 
 # 💻 Tech Stack:
